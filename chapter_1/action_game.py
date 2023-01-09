@@ -106,8 +106,7 @@ class Knight(Character):
         self.weapon_behavior = SwordBehavior()
 
 
-class ActionGame():
-
+class ActionGame:
     def main(self):
         king = King()
         troll = Troll()
