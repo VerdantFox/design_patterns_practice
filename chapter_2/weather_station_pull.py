@@ -1,4 +1,4 @@
-"""Weather station app."""
+"""Observer pattern: Weather station app."""
 
 
 class Subject:

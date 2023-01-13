@@ -1,4 +1,4 @@
-"""Implementation of the simulated duck."""
+"""Strategy pattern simulated ducks."""
 
 
 class FlyBehavior:

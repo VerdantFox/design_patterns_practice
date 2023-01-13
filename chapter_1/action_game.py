@@ -1,22 +1,4 @@
-"""Action adventure puzzle
-
-Your task:
-
-Arrange the classes.
-
-Identify one abstract class, one interface, and eight classes.
-
-Draw arrows between classes.
-
-a. Draw this kind of arrow for inheritance (“extends”). Images
-
-b. Draw this kind of arrow for interface (“implements”). Images
-
-c. Draw this kind of arrow for HAS-A. Images
-
-Put the method setWeapon() into the right class.
-
-"""
+"""Strategy pattern: action game."""
 
 
 class WeaponBehavior:
